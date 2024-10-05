@@ -25,7 +25,6 @@
    🌐 Programmer for Fun
    🎮 Games Lover
    💻 JS Lover
-   🌎 Philosopher & Physicist
    ⛩️ Misaki Mei Lover
 ```
 
