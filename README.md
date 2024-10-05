@@ -6,11 +6,11 @@
   <summary>About Me</summary>
 
 ```
-  - 🌐 Programmer for Fun
-  - 🎮 Games Lover
-  - 💻 JS Lover
-  - 🌎 Philosopher & Physicist
-  - ⛩️ Misaki Mei Lover
+   🌐 Programmer for Fun
+   🎮 Games Lover
+   💻 JS Lover
+   🌎 Philosopher & Physicist
+   ⛩️ Misaki Mei Lover
 ```
 
 </details>
