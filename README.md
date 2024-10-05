@@ -2,7 +2,7 @@
 
 <br/>
 
-details>
+<details>
   <summary>WELCOME</summary>
 
 ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
