@@ -1,4 +1,4 @@
-<img src="[images/https://i.pinimg.com/736x/42/8f/90/428f90ce15242ec6dd33565ac4887ccf.jpg](https://github.com/Kirigaya230/Kirigaya230/blob/main/Asuna.jpg?raw=true)" width="300" />
+<img src="https://github.com/Kirigaya230/Kirigaya230/blob/main/Asuna.jpg?raw=true" width="300" />
 
 - 👋 Hi, I’m @Kirigaya230
 - 👀 I’m interested in VideoGames
