@@ -4,13 +4,15 @@
 
 <details>
   <summary>About Me</summary>
-'''
+
+```
   - Programmer for Fun
   - Games Lover
   - JS Lover
   - Philosopher & Physicist
   - Misaki Mei Lover
-'''
+```
+
 </details>
 <!---
 Kirigaya230/Kirigaya230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
