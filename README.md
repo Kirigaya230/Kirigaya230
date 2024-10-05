@@ -3,7 +3,7 @@
 <br/>
 
 <details>
-  <summary>WELCOME</summary>
+  <summary>Hello</summary>
 
 ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
 ───█▒▒░░░░░░░░░▒▒█───
