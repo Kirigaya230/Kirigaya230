@@ -1,3 +1,5 @@
+<img src="images/[example.png](https://i.pinimg.com/736x/42/8f/90/428f90ce15242ec6dd33565ac4887ccf.jpg)" width="300" />
+
 - 👋 Hi, I’m @Kirigaya230
 - 👀 I’m interested in VideoGames
 - 🌱 I’m currently learning Python
